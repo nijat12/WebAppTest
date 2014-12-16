@@ -85,7 +85,7 @@ body {
 #map-canvas .centerMarker{
   position:absolute;
   /*url of the marker*/
-  background-image:url("../images/marker.png");
+  background-image:url("../images/marker5.png");
   background-repeat: no-repeat;
   /*center the marker*/
   top:50%;left:50%;
