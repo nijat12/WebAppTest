@@ -82,7 +82,7 @@ body {
   height: 400px;
 }
 
-#map-canvas.centerMarker{
+#map-canvas .centerMarker{
   position:absolute;
   /*url of the marker*/
   background-image:url("../images/marker.png");
