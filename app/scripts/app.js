@@ -26,5 +26,12 @@ angular
       .when('/about', {
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
-      })
+      });
   });
+  //.config(function (uiGmapGoogleMapApiProvider) {
+  //  uiGmapGoogleMapApiProvider.configure({
+  //    key: 'AIzaSyCzFdQjJIg-A3Eenmf-ARMLDxTQ51aC8qc',
+  //    v: '3.17',
+  //    libraries: 'weather,geometry,visualization'
+  //  });
+  //});
