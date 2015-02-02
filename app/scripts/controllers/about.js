@@ -145,3 +145,6 @@ angular.module('testApp')
       }
     };
   });
+
+angular.module('testApp')
+  .directive('clock')
